@@ -1,4 +1,4 @@
-﻿# Husker-Du-Game Crap Edition Doc
+﻿# Husker-Du-Game Doc
 
 University of Prishtina 2022;
 
