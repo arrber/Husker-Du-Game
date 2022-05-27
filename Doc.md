@@ -32,9 +32,9 @@ Shqarimi i kodit:
 				} else {					
 					rotate[row][col] = rotate[row][col + 1];	
 				}
-//				System.out.println(rotate[row][col] + "");			
+				//System.out.println(rotate[row][col] + "");			
 			}	
-//			System.out.println();
+			//System.out.println();
 		}
 		return rotate;
 	}
